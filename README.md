@@ -4,7 +4,7 @@ This repository contains my research work in 1st year presented at an Internatio
 
 ## Contents
 - IEEE-format research paper
-- Prototype implementation (in progress)
+- Python code 
 
 ## Project Goal
 To explore how Artificial Intelligence can detect cyber threats, analyze patterns, and support automated security systems.
