@@ -1,4 +1,4 @@
-# AI-Powered Cyber Defense System for Next Generation Enterpresis 
+# AI-Powered Cyber Defense System for Next Generation Enterprisis 
 
 This repository contains my research work in 1st year presented at an International Conference on Artificial Intelligence & Data Science under the guidance of my assistant professor mrs.Dhivya 
 
