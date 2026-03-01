@@ -9,9 +9,5 @@ This repository contains my research work in 1st year presented at an Internatio
 ## Project Goal
 To explore how Artificial Intelligence can detect cyber threats, analyze patterns, and support automated security systems.
 
-## Technologies
-- Python (planned implementation)
-- SQL (for log analysis)
-- AI-based pattern detection
 
 This project is part of my learning journey in AI security systems and real-world AI applications.
